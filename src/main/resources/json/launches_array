@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "name": "FalconSat",
+    "flight_number": 1,
+    "date_utc": "2006-03-24T22:30:00.000Z",
+    "success": false,
+    "upcoming": false,
+    "details": "Engine failure at 33 seconds and loss of vehicle",
+    "failures": [],
+    "cores": []
+  },
+  {
+    "id": "2",
+    "name": "DemoSat",
+    "flight_number": 2,
+    "date_utc": "2007-03-21T01:10:00.000Z",
+    "success": false,
+    "upcoming": false,
+    "details": "Second test flight",
+    "failures": [],
+    "cores": []
+  }
+]
